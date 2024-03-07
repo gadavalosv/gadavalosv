@@ -22,7 +22,7 @@
   <a href="https://medium.com/@gadavalosv" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
-  <a href="https://www.youtube.com/@gustavodavalosv" target="_blank">
+  <a href="https://www.youtube.com/@justdevmore" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
