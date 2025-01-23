@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gadavalosv/static/css/main.05369197.css",
-    "main.js": "/gadavalosv/static/js/main.c9f263b0.js",
+    "main.css": "/gadavalosv/static/css/main.6de63a42.css",
+    "main.js": "/gadavalosv/static/js/main.3cac0938.js",
     "static/js/787.7da95b79.chunk.js": "/gadavalosv/static/js/787.7da95b79.chunk.js",
     "static/media/proj_coche_tanque.png": "/gadavalosv/static/media/proj_coche_tanque.0e5ad7358b631df332bb.png",
     "static/media/proj_coche_tanque_3.png": "/gadavalosv/static/media/proj_coche_tanque_3.314b9db38196e0eaaf84.png",
@@ -46,12 +46,12 @@
     "static/media/nav-icon4.svg": "/gadavalosv/static/media/nav-icon4.249e344056ade0cc586b9e0887c65748.svg",
     "index.html": "/gadavalosv/index.html",
     "static/media/nav-icon2.svg": "/gadavalosv/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.05369197.css.map": "/gadavalosv/static/css/main.05369197.css.map",
-    "main.c9f263b0.js.map": "/gadavalosv/static/js/main.c9f263b0.js.map",
+    "main.6de63a42.css.map": "/gadavalosv/static/css/main.6de63a42.css.map",
+    "main.3cac0938.js.map": "/gadavalosv/static/js/main.3cac0938.js.map",
     "787.7da95b79.chunk.js.map": "/gadavalosv/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.05369197.css",
-    "static/js/main.c9f263b0.js"
+    "static/css/main.6de63a42.css",
+    "static/js/main.3cac0938.js"
   ]
 }
